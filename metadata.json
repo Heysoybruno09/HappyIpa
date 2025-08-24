@@ -1,0 +1,5 @@
+{
+  "name": "IPA Guardian",
+  "description": "An App Store-like web application for discovering and 'virus scanning' IPA files. It simulates a security scan using AI to generate detailed reports on app safety.",
+  "requestFramePermissions": []
+}
